@@ -2,6 +2,7 @@
 EV Challenge 2026 — GoodWe**
 
 **Equipe**
+
 André Santos de Azevedo — RM572236
 
 Bruno Menezes Monegatto — RM570311
