@@ -3,11 +3,17 @@ EV Challenge 2026 — GoodWe**
 
 **Equipe**
 André Santos de Azevedo — RM572236
+
 Bruno Menezes Monegatto — RM570311
+
 Fabiana Yumi Rodrigues Nakagawa — RM571249
+
 Iago Neiva Gorrão — RM570234
+
 João Pedro Amorim Albuquerque — RM573342
+
 Kayky Araujo Silva — RM569535
+
 Kelly Stephanie Mendoza — RM569044
 
 **Problema e Justificativa**
