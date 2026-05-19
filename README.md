@@ -19,9 +19,11 @@ Kelly Stephanie Mendoza — RM569044
 
 **Problema e Justificativa**
 
-O crescimento acelerado da mobilidade elétrica cria uma nova demanda por infraestrutura inteligente de carregamento veicular, especialmente no mercado comercial. Estabelecimentos como shopping centers, supermercados, estacionamentos, academias, hotéis, coworkings e redes varejistas passam a enxergar os eletropostos como uma oportunidade estratégica de negócio, fidelização de clientes e posicionamento sustentável.
+O crescimento acelerado da mobilidade elétrica cria uma nova demanda por infraestrutura inteligente de carregamento veicular, especialmente no mercado comercial. 
+Estabelecimentos como shopping centers, supermercados, estacionamentos, academias, hotéis, coworkings e redes varejistas passam a enxergar os eletropostos como uma oportunidade estratégica de negócio, fidelização de clientes e posicionamento sustentável.
 
-Entretanto, o cenário atual ainda apresenta desafios significativos para a operação eficiente dessa infraestrutura. Muitos estabelecimentos enfrentam dificuldades relacionadas à integração entre carregadores de diferentes fabricantes, ausência de monitoramento centralizado, risco de sobrecarga energética em horários de pico, dificuldade de monetização da operação e baixa visibilidade sobre indicadores operacionais e financeiros.
+Entretanto, o cenário atual ainda apresenta desafios significativos para a operação eficiente dessa infraestrutura. 
+Muitos estabelecimentos enfrentam dificuldades relacionadas à integração entre carregadores de diferentes fabricantes, ausência de monitoramento centralizado, risco de sobrecarga energética em horários de pico, dificuldade de monetização da operação e baixa visibilidade sobre indicadores operacionais e financeiros.
 
 Além disso, o aumento simultâneo de veículos em recarga pode ultrapassar a capacidade energética do estabelecimento, gerando instabilidade elétrica, aumento de custos e limitação da escalabilidade da infraestrutura.
 
@@ -36,12 +38,19 @@ A solução atua como um hub centralizado capaz de integrar carregadores GoodWe 
 O sistema realiza:
 
 monitoramento em tempo real dos carregadores;
+
 gestão simultânea de múltiplos eletropostos;
+
 balanceamento dinâmico de carga elétrica;
+
 controle de demanda energética;
+
 integração entre energia da rede e energia fotovoltaica;
+
 gestão financeira da operação;
+
 relatórios operacionais e energéticos;
+
 telemetria e analytics operacional.
 
 Um dos principais diferenciais da solução é o mecanismo de orquestração inteligente de potência, desenvolvido para reduzir riscos de sobrecarga energética.
@@ -55,12 +64,19 @@ A solução também conta com a Weely, uma IA conversacional desenvolvida para a
 A Weely interpreta os dados da operação e permite que gestores realizem consultas em linguagem natural sobre:
 
 tarifação dinâmica;
+
 consumo energético;
+
 horários de pico;
+
 faturamento;
+
 ocupação dos carregadores;
+
 eficiência operacional;
+
 utilização de energia solar;
+
 alertas e desempenho da infraestrutura.
 
 Dessa forma, a plataforma transforma dados técnicos complexos em inteligência acessível para tomada de decisão.
@@ -72,14 +88,23 @@ A ChargeGrid Intelligence busca transformar a infraestrutura de carregamento vei
 Entre os impactos esperados da solução estão:
 
 redução de riscos de sobrecarga energética;
+
 maior eficiência operacional dos eletropostos;
+
 otimização do consumo energético;
+
 melhor aproveitamento da energia solar;
+
 redução de custos operacionais;
+
 aumento da escalabilidade da infraestrutura;
+
 geração de receita através da recarga veicular;
+
 melhoria da experiência do usuário;
+
 fortalecimento do posicionamento sustentável das empresas;
+
 apoio à expansão da mobilidade elétrica no Brasil.
 
 Além disso, a solução promove uma visão mais inteligente e integrada da gestão energética, conectando mobilidade elétrica, sustentabilidade e análise de dados em uma única plataforma.
@@ -89,10 +114,15 @@ Além disso, a solução promove uma visão mais inteligente e integrada da gest
 O desenvolvimento do projeto utiliza tecnologias voltadas para integração de sistemas, análise de dados e Inteligência Artificial.
 
 **Principais tecnologias:**
+
 Python
+
 Protocolo OCPP/MODBUS
+
 OpenAI API
+
 Google Colab
+
 GitHub
 
 A arquitetura da solução foi projetada para permitir escalabilidade, integração multi-marca e processamento contínuo de dados operacionais.
@@ -108,9 +138,13 @@ Além disso, a plataforma permite integração com sistemas fotovoltaicos GoodWe
 Essa abordagem promove:
 
 redução da dependência da rede elétrica convencional;
+
 diminuição de custos energéticos;
+
 melhor aproveitamento de excedentes solares;
+
 redução da emissão indireta de carbono;
+
 operação energética mais eficiente e sustentável.
 
 A proposta do projeto vai além da recarga veicular: busca contribuir para o desenvolvimento de ecossistemas energéticos inteligentes, alinhados à transição para uma matriz energética mais limpa e sustentável.
