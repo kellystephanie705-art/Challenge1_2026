@@ -1,7 +1,7 @@
 **ChargeGrid Intelligence
 EV Challenge 2026 — GoodWe**
 
-Plataforma Inteligente de Gestão Energética, Analytics e Mobilidade Elétrica para Eletropostos Comerciais
+video-pitch: https://youtu.be/9Bdx0eCkNic
 
 **Equipe**
 André Santos de Azevedo — RM572236
