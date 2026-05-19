@@ -1,8 +1,6 @@
 **ChargeGrid Intelligence
 EV Challenge 2026 — GoodWe**
 
-video-pitch: https://youtu.be/9Bdx0eCkNic
-
 **Equipe**
 André Santos de Azevedo — RM572236
 Bruno Menezes Monegatto — RM570311
